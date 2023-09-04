@@ -74,7 +74,7 @@ const Work = () => {
                       </button>
                     </a>
                   ) : (
-                    "Code not available due to some factors"
+                    "Code not available due to some Privacy factors"
                   )}
 
                   {/* eslint-disable-next-line */}

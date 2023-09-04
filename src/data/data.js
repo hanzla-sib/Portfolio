@@ -13,6 +13,7 @@ import pipe from "../assets/projects/pipes.png";
 import DB from "../assets/projects/db.png";
 import veteran from "../assets/projects/veteran.jpg";
 import Scrapper from "../assets/projects/scraper.png";
+import Twitter from "../assets/projects/Twitter.jpg";
 export const data = [
   {
     id: 1,
@@ -31,7 +32,15 @@ export const data = [
     link2: "https://youtu.be/9yklmRIKlYI",
   },
   {
-    id: 3,
+    id: 4,
+    name: "Twitter Clone Next.js+Tailwind",
+    image: Twitter,
+    github: "https://github.com/hanzla-sib/Twitter-2.0",
+    live: "https://twitter-2-0-nu.vercel.app/",
+    link2: "",
+  },
+  {
+    id: 5,
     name: "Airbnb Clone (Mern)",
     image: Airbnb,
     github: "https://github.com/hanzla-sib/H.Hotle-Booking",
@@ -40,7 +49,7 @@ export const data = [
   },
 
   {
-    id: 4,
+    id: 6,
     name: "React-DashBoard",
     image: Dashboard,
     github: "https://github.com/hanzla-sib/React-Dashboard",
@@ -48,7 +57,7 @@ export const data = [
     link2: "",
   },
   {
-    id: 5,
+    id: 7,
     name: "React Background Remover",
     image: Remover,
     github: "https://github.com/hanzla-sib/React-Background_remover",
@@ -56,7 +65,7 @@ export const data = [
     link2: "",
   },
   {
-    id: 6,
+    id: 8,
     name: "Network Analysis (C++)",
     image: Graph,
     github: "https://github.com/hanzla-sib/Network-Analysis-C-",
@@ -64,7 +73,7 @@ export const data = [
     link2: "",
   },
   {
-    id: 7,
+    id: 9,
     name: "ATM Machine (OOP)",
     image: Atm,
     github: "https://github.com/hanzla-sib/ATM-MACHINE-OOP",
@@ -72,7 +81,7 @@ export const data = [
     link2: "",
   },
   {
-    id: 8,
+    id: 10,
     name: "Candy Crush (OOP)",
     image: Candy,
     github: "https://github.com/hanzla-sib/Candy-Crush-C-",
@@ -80,7 +89,7 @@ export const data = [
     link2: "",
   },
   {
-    id: 9,
+    id: 11,
     name: "Dodge EM (C++)",
     image: Dodge,
     github: "https://github.com/hanzla-sib/Dodge_em-game",
@@ -88,7 +97,7 @@ export const data = [
     link2: "",
   },
   {
-    id: 10,
+    id: 12,
     name: "Restaurant Management (C++ OS)",
     image: pipe,
     github: "https://github.com/hanzla-sib/restaurant-management-system-c-",
@@ -96,7 +105,7 @@ export const data = [
     link2: "",
   },
   {
-    id: 11,
+    id: 13,
     name: "NGO School DB System",
     image: DB,
     github: "https://github.com/hanzla-sib/NGO-SCHOOL-DATABASE-SYSTEM",
@@ -105,7 +114,7 @@ export const data = [
   },
 
   {
-    id: 12,
+    id: 14,
     name: "Veteran Meet (MERN)",
     image: veteran,
     github: "https://github.com/hanzla-sib/VeteranMeet-Mern-Stack",
@@ -113,7 +122,7 @@ export const data = [
     link2: "",
   },
   {
-    id: 13,
+    id: 15,
     name: "Daraz Scrapper (Python and Mysql)",
     image: Scrapper,
     github: "https://github.com/hanzla-sib/Daraz_Scrapper",
