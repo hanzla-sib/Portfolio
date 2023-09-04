@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.e3bb20a6.css",
-    "main.js": "/Portfolio/static/js/main.1ad3712c.js",
+    "main.js": "/Portfolio/static/js/main.e1d999ed.js",
     "static/media/input-onlinepngtools.png": "/Portfolio/static/media/input-onlinepngtools.7e954ab9d036dfe84b3a.png",
     "static/media/realestate.jpg": "/Portfolio/static/media/realestate.44fd19f4c6872731149c.jpg",
     "static/media/remcare.png": "/Portfolio/static/media/remcare.0d710056a3a563523f34.png",
     "static/media/airbnbori.jpg": "/Portfolio/static/media/airbnbori.59dd25276335e0b3f9ea.jpg",
+    "static/media/Twitter.jpg": "/Portfolio/static/media/Twitter.8cea5f486077146024d7.jpg",
     "static/media/dashboard.png": "/Portfolio/static/media/dashboard.959a4c3b78f6bafc5e8b.png",
     "static/media/veteran.jpg": "/Portfolio/static/media/veteran.776d72b6af1cc89feb3c.jpg",
     "static/media/workImg.jpeg": "/Portfolio/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
@@ -26,10 +27,10 @@
     "static/media/javascript.png": "/Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/Portfolio/index.html",
     "main.e3bb20a6.css.map": "/Portfolio/static/css/main.e3bb20a6.css.map",
-    "main.1ad3712c.js.map": "/Portfolio/static/js/main.1ad3712c.js.map"
+    "main.e1d999ed.js.map": "/Portfolio/static/js/main.e1d999ed.js.map"
   },
   "entrypoints": [
     "static/css/main.e3bb20a6.css",
-    "static/js/main.1ad3712c.js"
+    "static/js/main.e1d999ed.js"
   ]
 }
